@@ -1,7 +1,7 @@
 node_modules/
 cmds/*
 !cmds/help.js
-!cmds/echo.js
+!cmds/test.js
 *.json
 start.bat
 mppClient.js
